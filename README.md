@@ -1,5 +1,5 @@
 <div align="center">
-  ## Hi, I'am Suhyeon! Thanks 👋
+  Hi, I'am Suhyeon! Thanks 👋
 </div>
 
 <!--
