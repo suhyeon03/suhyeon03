@@ -48,9 +48,6 @@ Here are some ideas to get you started:
 
 ![Suhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhyeon03&show_icons=true&theme=radical)
 
-<br>
-
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhyeon03&layout=compact)
 
