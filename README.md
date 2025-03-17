@@ -1,5 +1,5 @@
 
- # Hi,  I'am Suhyeon👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5BF7A7&background=F636FF00&width=435&lines=Hi+My+Name+is+Suhyeon+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 
 <!--
