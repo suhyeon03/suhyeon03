@@ -1,13 +1,16 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5BF7A7&background=F636FF00&width=435&lines=Hi+My+Name+is+Suhyeon+%F0%9F%91%8B" alt="Typing SVG" /></a>
+
 
 
 <!--
 **suhyeon03/suhyeon03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+    
 Here are some ideas to get you started:
 <!--타이틀 부분-->
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:cb0606,100:230101&height=120&text=Hi!%20My%20Name%20is%20Suhyeon&animation=blinking&fontColor=280101&fontSize=50" />
+    </div>
+    
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
