@@ -8,8 +8,9 @@
 Here are some ideas to get you started:
 <!--타이틀 부분-->
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:cb0606,100:230101&height=120&text=Hi!%20My%20Name%20is%20Suhyeon&animation=blinking&fontColor=280101&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=0:cb0606,100:230101&height=120&text=Hi!%20My%20Name%20is%20Suhyeon&animation=&fontColor=ec5151&fontSize=50" />
     </div>
+    
     
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
